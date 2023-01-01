@@ -7,6 +7,7 @@
       href="./output.css"
       rel="stylesheet"
     />
+    <script src="https://kit.fontawesome.com/a04dfe1eb8.js" crossorigin="anonymous"></script>
     <script>
         // On page load or when changing themes, best to add inline in `head` to avoid FOUC
         if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -35,7 +36,7 @@
             </nav>
 
             <!-- content -->
-            <div class="mt-20 dark:bg-zinc-800 max-w-xl mx-auto dark:bg-zinc-700/80 dark:border-zinc-600 border backdrop-blur-md rounded-md p-6">
+            <div class="mt-20  max-w-xl mx-auto  dark:border-zinc-600 border backdrop-blur-md rounded-md p-6">
                 
                 <div class="flex flex-col justify center items-center text-center space-y-4">
                     <div class="w-24 ring-4 ring-yellow-400 rounded-full">
@@ -46,43 +47,23 @@
 
                   <div class="dark:text-zinc-100 max-w-md mx-auto mt-20 space-y-10">
 <!-- Link 1 -->
-                    <a href="https://www.linkedin.com/in/bernard-yamoah-971386132/" class="flex justify-between items-center w-full bg-orange-500 rounded-md p-4 shadow-md hover:shadow-lg">
+                    <a href="https://www.linkedin.com/in/bernard-yamoah-971386132/" class="flex justify-between items-center w-full bg-blue-700 rounded-md p-4 shadow-md hover:shadow-lg">
                         <!-- Icon -->
                         <div >
-                            
+                            <i class="fa-brands fa-linkedin text-2xl text-white"></i>
                         </div>
 
                         <!-- Title -->
-                        <p>LinkedIn</p>
+                        <p class="text-xl tracking-wide ">LinkedIn</p>
 
                         <!-- Share Icon -->
                         <div class="tile-share-button">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M7.217 10.907a2.25 2.25 0 100 2.186m0-2.186c.18.324.283.696.283 1.093s-.103.77-.283 1.093m0-2.186l9.566-5.314m-9.566 7.5l9.566 5.314m0 0a2.25 2.25 0 103.935 2.186 2.25 2.25 0 00-3.935-2.186zm0-12.814a2.25 2.25 0 103.933-2.185 2.25 2.25 0 00-3.933 2.185z" />
-                              </svg>
+                            <i  class="fa-solid fa-share-from-square text-xl text-white"></i>
                               
                         </div>
                     </a>
                     
-<!-- ============================================================ -->
-<!-- Link 2 -->
-<a href="" class="flex justify-between items-center w-full bg-orange-500 rounded-md p-4 shadow-md hover:shadow-lg">
-    <!-- Icon -->
-    <div >
-        
-    </div>
 
-    <!-- Title -->
-    <p>Twitter</p>
-
-    <!-- Share Icon -->
-    <div class="tile-share-button">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M7.217 10.907a2.25 2.25 0 100 2.186m0-2.186c.18.324.283.696.283 1.093s-.103.77-.283 1.093m0-2.186l9.566-5.314m-9.566 7.5l9.566 5.314m0 0a2.25 2.25 0 103.935 2.186 2.25 2.25 0 00-3.935-2.186zm0-12.814a2.25 2.25 0 103.933-2.185 2.25 2.25 0 00-3.933 2.185z" />
-          </svg>
-          
-    </div>
-</a>
 
 <!-- ============================================================ -->
 
