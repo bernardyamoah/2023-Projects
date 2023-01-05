@@ -7,6 +7,11 @@
       href="./output.css"
       rel="stylesheet"
     />
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
+
+
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="https://kit.fontawesome.com/a04dfe1eb8.js" crossorigin="anonymous"></script>
     <script>
         // On page load or when changing themes, best to add inline in `head` to avoid FOUC
@@ -20,10 +25,10 @@
 
     <title>My links</title>
   </head>
-  <body class="flex items-center justify-center bg-zinc-100 dark:bg-zinc-800">
+  <body class="flex  bg-zinc-100 dark:bg-zinc-800">
     <div class="w-full">
             <!-- Navbar -->
-            <nav class=" w-full p-4 dark:text-zinc-100 shadow-md  z-50 bg-white/90 dark:bg-zinc-700/80 dark:border-zinc-600 border backdrop-blur-md rounded-md  md:p-6 flex items-center justify-between">
+            <nav class=" w-full px-4 py-2 dark:text-zinc-100 shadow-md  z-50 bg-white/90 dark:bg-zinc-700/80 dark:border-zinc-600 border backdrop-blur-md rounded-md   flex items-center justify-between md:px-20 lg:px-40">
                 <div><a href="#" class="font-mono font-extrabold text-lg">Linkz</a></div>
                 
                     <div class="space-x-4 flex items-center ">
@@ -39,7 +44,7 @@
             </nav>
 
             <!-- content -->
-            <div class="mt-20  max-w-xl mx-auto   backdrop-blur-md rounded-md py-6 px-4">
+            <div class="mt-10  max-w-xl mx-auto   backdrop-blur-md rounded-md py-6 px-4">
                 
                 <div class="flex flex-col justify center items-center text-center space-y-4">
                     <div class="w-24 ring-4 transition-all duration-500 hover:ring-yellow-400 rounded-full">
@@ -49,12 +54,12 @@
                     <p class="text-sm text-zinc-400">I am a self taught frontend developer</p>
                   </div>
 
-                  <div class="text-zinc-100 max-w-md mx-auto mt-20 space-y-5">
+                  <div class="content text-zinc-100 max-w-md mx-auto mt-12 space-y-3">
                         <!-- Link 1 -->
-                    <a href="https://www.linkedin.com/in/bernard-yamoah-971386132/" class="flex justify-between items-center w-full bg-blue-700 rounded-md p-4 shadow-md hover:shadow-lg">
+                    <a href="https://www.linkedin.com/in/bernard-yamoah-971386132/" class="flex justify-between items-center w-full bg-blue-700 rounded-md p-4 shadow-md hover:shadow-lg ">
                         <!-- Icon -->
                         <div >
-                            <i class="fa-brands fa-linkedin text-2xl text-white"></i>
+                            <i class="fa-brands fa-linkedin text-2xl text-white" id="success"></i>
                         </div>
 
                         <!-- Title -->
@@ -62,53 +67,31 @@
 
                         <!-- Share Icon -->
                         <div class="tile-share-button" link="https://www.linkedin.com/in/bernard-yamoah-971386132/">
-                            <i  class="fa-solid fa-share-from-square text-xl text-white"></i>
+                            <i  class="fa-solid fa-share-from-square text-xl text-white" id="success"></i>
                               
                         </div>
                     </a>
                     
+    <!-- Link  2-->
+    <a href="https://www.twitter.com/byayamoah" class="flex justify-between items-center w-full bg-cyan-500 rounded-md p-4 shadow-md hover:shadow-lg ">
+        <!-- Icon -->
+        <div >
+            <i class="fa-brands fa-twitter text-2xl text-white" id="success"></i>
+        </div>
+
+        <!-- Title -->
+        <p class="text-xl tracking-wide ">Twitter</p>
+
+        <!-- Share Icon -->
+        <div class="tile-share-button" link="https://www.twitter.com/byayamoah">
+            <i  class="fa-solid fa-share-from-square text-xl text-white"></i>
+              
+        </div>
+    </a>
 
 
-<!-- ============================================================ -->
-        <!-- Link 2 -->
-        <a href="https://www.twitter.com/byayamoah" class="flex justify-between items-center w-full bg-cyan-500 rounded-md p-4 shadow-md hover:shadow-lg">
-            <!-- Icon -->
-            <div >
-                <i class="fa-brands fa-twitter text-2xl text-white"></i>
-            </div>
-
-            <!-- Title -->
-            <p class="text-xl tracking-wide ">Twitter</p>
-
-            <!-- Share Icon -->
-            <div class="tile-share-button" link="https://www.twitter.com/byayamoah">
-                <i  class="fa-solid fa-share-from-square text-xl text-white"></i>
-                  
-            </div>
-        </a>
-        
 
 
-<!-- ============================================================ -->
-<!-- Link 2 -->
-<a href="https://t.me/BernardYamoah" class="flex justify-between items-center w-full bg-blue-500 rounded-md p-4 shadow-md hover:shadow-lg">
-    <!-- Icon -->
-    <div >
-        <i class="fa-brands fa-telegram text-2xl text-white"></i>
-        
-    </div>
-
-    <!-- Title -->
-    <p class="text-xl tracking-wide ">Telegram</p>
-
-    <!-- Share Icon -->
-    <div class="tile-share-button" link="https://t.me/BernardYamoah">
-        <i  class="fa-solid fa-share-from-square text-xl text-white"></i>
-          
-    </div>
-</a>
-
-                
 
                   </div>
             </div>
