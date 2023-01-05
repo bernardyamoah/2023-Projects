@@ -9,7 +9,11 @@ async function copyText(e){
     console.log(link)
     try{
     await navigator.clipboard.writeText(link)
-    swal("Good job!", link , "success")
+    // swal("Good job!", link , "success")
+    iziToast.show({
+    title: 'Hey',
+    message: link
+});
     }
     catch(err){
     console.log(err)
