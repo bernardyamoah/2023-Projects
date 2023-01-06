@@ -12,7 +12,7 @@ async function copyText(e){
     // swal("Good job!","Link has been successfully copied!", "success")
 
     // // Izi toast
-    iziToast.success({
+        iziToast.success({
             title: 'Success',
             message: 'Successfully copied!',
         overlay: true,
