@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="168" preserveAspectRatio="xMidYMid" viewBox="0 0 168 168" style="display:block;background-repeat-y:initial;background-repeat-x:initial;background-color:rgb(34, 34, 34);animation-play-state:paused" ><g transform="scale(0.66)" style="transform:matrix(0.66, 0, 0, 0.66, 0, 0);animation-play-state:paused" ><defs style="animation-play-state:paused" ><filter id="pat-0.7070481825320194" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB" style="animation-play-state:paused" ><feGaussianBlur in="SourceGraphic" stdDeviation="9.23" style="animation-play-state:paused" ></feGaussianBlur>
+
+    
+<feComponentTransfer result="cutoff" style="animation-play-state:paused" ><feFuncA type="linear" slope="60" intercept="-40" style="animation-play-state:paused" ></feFuncA></feComponentTransfer></filter></defs>
+<g filter="url(#f)" style="animation-play-state:paused" ><g filter="url(#pat-0.7070481825320194)" style="isolation:isolate;animation-play-state:paused" ><rect x="0" y="0" width="256" height="256" fill="none" style="animation-play-state:paused" ></rect>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><circle cx="-250.86159183473842" cy="143.40097800109066" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="5.1384081652615805" cy="143.40097800109066" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="261.1384081652616" cy="143.40097800109066" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-250.86159183473842" cy="399.40097800109066" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="5.1384081652615805" cy="399.40097800109066" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="261.1384081652616" cy="399.40097800109066" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-250.86159183473842" cy="655.4009780010906" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="5.1384081652615805" cy="655.4009780010906" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="261.1384081652616" cy="655.4009780010906" r="21.744541368165468" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-59.65980377015768" cy="200.20952806505875" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="196.34019622984232" cy="200.20952806505875" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="452.3401962298423" cy="200.20952806505875" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-59.65980377015768" cy="456.20952806505875" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="196.34019622984232" cy="456.20952806505875" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="452.3401962298423" cy="456.20952806505875" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-59.65980377015768" cy="712.2095280650587" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="196.34019622984232" cy="712.2095280650587" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="452.3401962298423" cy="712.2095280650587" r="10.587675124172295" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-140.09370759935103" cy="46.72134694628909" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="115.90629240064897" cy="46.72134694628909" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="371.90629240064897" cy="46.72134694628909" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-140.09370759935103" cy="302.7213469462891" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="115.90629240064897" cy="302.7213469462891" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="371.90629240064897" cy="302.7213469462891" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-140.09370759935103" cy="558.721346946289" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="115.90629240064897" cy="558.721346946289" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="371.90629240064897" cy="558.721346946289" r="29.89437279019165" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-66.93724920127119" cy="35.96997769620094" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="189.0627507987288" cy="35.96997769620094" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="445.0627507987288" cy="35.96997769620094" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-66.93724920127119" cy="291.96997769620094" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="189.0627507987288" cy="291.96997769620094" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="445.0627507987288" cy="291.96997769620094" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-66.93724920127119" cy="547.9699776962009" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="189.0627507987288" cy="547.9699776962009" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="445.0627507987288" cy="547.9699776962009" r="17.301708509961593" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-137.47734212025773" cy="-29.032267864115852" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="118.52265787974227" cy="-29.032267864115852" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="374.52265787974227" cy="-29.032267864115852" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-137.47734212025773" cy="226.96773213588415" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="118.52265787974227" cy="226.96773213588415" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="374.52265787974227" cy="226.96773213588415" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-137.47734212025773" cy="482.96773213588415" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="118.52265787974227" cy="482.96773213588415" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="374.52265787974227" cy="482.96773213588415" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-137.47734212025773" cy="738.9677321358841" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="118.52265787974227" cy="738.9677321358841" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="374.52265787974227" cy="738.9677321358841" r="34.124050475442786" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-87.13669087411319" cy="95.25522656110888" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="168.86330912588681" cy="95.25522656110888" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="424.8633091258868" cy="95.25522656110888" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-87.13669087411319" cy="351.2552265611089" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="168.86330912588681" cy="351.2552265611089" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="424.8633091258868" cy="351.2552265611089" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-87.13669087411319" cy="607.2552265611089" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="168.86330912588681" cy="607.2552265611089" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="424.8633091258868" cy="607.2552265611089" r="13.70818552411656" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-248.64183262389923" cy="53.974424491769526" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="7.358167376100766" cy="53.974424491769526" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="263.35816737610077" cy="53.974424491769526" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-248.64183262389923" cy="309.9744244917695" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="7.358167376100766" cy="309.9744244917695" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="263.35816737610077" cy="309.9744244917695" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-248.64183262389923" cy="565.9744244917695" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="7.358167376100766" cy="565.9744244917695" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="263.35816737610077" cy="565.9744244917695" r="12.355934437885043" fill="undefined" style="animation-play-state:paused" ></circle></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><circle cx="-3.466856535698639" cy="26.69804743842633" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="252.53314346430136" cy="26.69804743842633" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="508.53314346430136" cy="26.69804743842633" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-3.466856535698639" cy="282.69804743842633" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="252.53314346430136" cy="282.69804743842633" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="508.53314346430136" cy="282.69804743842633" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-3.466856535698639" cy="538.6980474384263" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="252.53314346430136" cy="538.6980474384263" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="508.53314346430136" cy="538.6980474384263" r="24.566415502464462" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-173.9313447428421" cy="157.2587861408427" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="82.0686552571579" cy="157.2587861408427" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="338.0686552571579" cy="157.2587861408427" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-173.9313447428421" cy="413.2587861408427" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="82.0686552571579" cy="413.2587861408427" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="338.0686552571579" cy="413.2587861408427" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-173.9313447428421" cy="669.2587861408426" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="82.0686552571579" cy="669.2587861408426" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="338.0686552571579" cy="669.2587861408426" r="26.57971913214039" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-226.30534362178133" cy="214.67545987359597" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="29.694656378218667" cy="214.67545987359597" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="285.69465637821867" cy="214.67545987359597" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-226.30534362178133" cy="470.67545987359597" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="29.694656378218667" cy="470.67545987359597" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="285.69465637821867" cy="470.67545987359597" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-226.30534362178133" cy="726.675459873596" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="29.694656378218667" cy="726.675459873596" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="285.69465637821867" cy="726.675459873596" r="25.44723914246714" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-225.68587042474815" cy="130.30046897128676" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="30.314129575251854" cy="130.30046897128676" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="286.31412957525185" cy="130.30046897128676" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-225.68587042474815" cy="386.30046897128676" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="30.314129575251854" cy="386.30046897128676" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="286.31412957525185" cy="386.30046897128676" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-225.68587042474815" cy="642.3004689712868" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="30.314129575251854" cy="642.3004689712868" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="286.31412957525185" cy="642.3004689712868" r="31.409610834419237" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-215.19079263932866" cy="29.43533001015686" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="40.80920736067134" cy="29.43533001015686" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="296.80920736067134" cy="29.43533001015686" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-215.19079263932866" cy="285.43533001015686" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="40.80920736067134" cy="285.43533001015686" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="296.80920736067134" cy="285.43533001015686" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-215.19079263932866" cy="541.4353300101568" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="40.80920736067134" cy="541.4353300101568" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="296.80920736067134" cy="541.4353300101568" r="18.93249108103679" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-89.12915718489518" cy="106.44039752380547" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="166.87084281510482" cy="106.44039752380547" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="422.8708428151048" cy="106.44039752380547" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-89.12915718489518" cy="362.4403975238055" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="166.87084281510482" cy="362.4403975238055" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="422.8708428151048" cy="362.4403975238055" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-89.12915718489518" cy="618.4403975238055" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="166.87084281510482" cy="618.4403975238055" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="422.8708428151048" cy="618.4403975238055" r="12.911348101318545" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-213.63753756871807" cy="19.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="42.36246243128193" cy="19.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="298.3624624312819" cy="19.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-213.63753756871807" cy="275.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="42.36246243128193" cy="275.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="298.3624624312819" cy="275.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-213.63753756871807" cy="531.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="42.36246243128193" cy="531.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="298.3624624312819" cy="531.4851700987075" r="12.612369271693009" fill="undefined" style="animation-play-state:paused" ></circle></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><circle cx="-211.1327597055611" cy="148.15911508886796" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="44.867240294438886" cy="148.15911508886796" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="300.8672402944389" cy="148.15911508886796" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-211.1327597055611" cy="404.15911508886796" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="44.867240294438886" cy="404.15911508886796" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="300.8672402944389" cy="404.15911508886796" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-211.1327597055611" cy="660.159115088868" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="44.867240294438886" cy="660.159115088868" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="300.8672402944389" cy="660.159115088868" r="35.68893577664785" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-97.33543100672023" cy="85.83487895948537" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="158.66456899327977" cy="85.83487895948537" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="414.6645689932798" cy="85.83487895948537" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-97.33543100672023" cy="341.83487895948537" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="158.66456899327977" cy="341.83487895948537" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="414.6645689932798" cy="341.83487895948537" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-97.33543100672023" cy="597.8348789594854" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="158.66456899327977" cy="597.8348789594854" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="414.6645689932798" cy="597.8348789594854" r="14.675171408129973" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-44.11726113944388" cy="46.54575900879172" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="211.88273886055612" cy="46.54575900879172" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="467.8827388605561" cy="46.54575900879172" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-44.11726113944388" cy="302.5457590087917" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="211.88273886055612" cy="302.5457590087917" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="467.8827388605561" cy="302.5457590087917" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-44.11726113944388" cy="558.5457590087917" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="211.88273886055612" cy="558.5457590087917" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="467.8827388605561" cy="558.5457590087917" r="27.841984701210894" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-180.37971636870708" cy="51.425133360098755" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="75.62028363129292" cy="51.425133360098755" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="331.6202836312929" cy="51.425133360098755" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-180.37971636870708" cy="307.42513336009876" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="75.62028363129292" cy="307.42513336009876" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="331.6202836312929" cy="307.42513336009876" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-180.37971636870708" cy="563.4251333600987" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="75.62028363129292" cy="563.4251333600987" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="331.6202836312929" cy="563.4251333600987" r="11.950490779455077" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-22.758863403125417" cy="-10.980484958130944" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="233.24113659687458" cy="-10.980484958130944" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="489.2411365968746" cy="-10.980484958130944" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-22.758863403125417" cy="245.01951504186906" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="233.24113659687458" cy="245.01951504186906" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="489.2411365968746" cy="245.01951504186906" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-22.758863403125417" cy="501.01951504186906" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="233.24113659687458" cy="501.01951504186906" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="489.2411365968746" cy="501.01951504186906" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-22.758863403125417" cy="757.019515041869" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="233.24113659687458" cy="757.019515041869" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="489.2411365968746" cy="757.019515041869" r="30.039324592673342" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-167.87328974013263" cy="169.34377403358684" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="88.12671025986737" cy="169.34377403358684" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="344.12671025986737" cy="169.34377403358684" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-167.87328974013263" cy="425.34377403358684" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="88.12671025986737" cy="425.34377403358684" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="344.12671025986737" cy="425.34377403358684" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="-167.87328974013263" cy="681.3437740335869" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="88.12671025986737" cy="681.3437740335869" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle>
+ 
+<circle cx="344.12671025986737" cy="681.3437740335869" r="32.21545894913898" fill="undefined" style="animation-play-state:paused" ></circle></g></g></g>
+<filter id="f" style="animation-play-state:paused" ><feDiffuseLighting lighting-color="#222222" surfaceScale="0.5" result="light" style="animation-play-state:paused" ><feDistantLight azimuth="45" elevation="60" style="animation-play-state:paused" ></feDistantLight></feDiffuseLighting></filter></g></svg>
