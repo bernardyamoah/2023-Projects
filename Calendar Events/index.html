@@ -26,11 +26,11 @@
 
     <title>My links</title>
   </head>
-  <body class="flex  bg-zinc-100 dark:bg-[url('./Raindrop-3.3s-1084px.svg')] bg-[url('./Raindrop-100s-1084px.svg')] ">
-    <div class="w-full  md:pt-8 md:pb-10">
+  <body class="bg-purple-700">
+
             <!-- Navbar -->
-            <nav class=" w-full lg:max-w-2xl sm:max-w-md md:max-w-lg px-4 py-2 dark:text-zinc-100 shadow-md  z-50 bg-white/90 dark:bg-zinc-700/80 dark:border-zinc-600 border backdrop-blur-md rounded-md   flex items-center justify-between md:px-6  mx-auto">
-                <div><a href="#" class=" font-extrabold text-lg">Linkz</a></div>
+            <nav class=" w-full lg:max-w-2xl sm:max-w-md md:max-w-lg px-4 py-2 dark:text-zinc-100 shadow-md  z-50 bg-white/90 dark:bg-zinc-700/80 dark:border-zinc-600 border backdrop-blur-md lg:rounded-md   flex items-center justify-between md:px-6  mx-auto md:mt-5">
+                <div><a href="#" class=" font-extrabold text-lg">Events Calendar</a></div>
                 
                     <div class="space-x-4 flex items-center ">
                         <button id="theme-toggle" type="button" class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5">
@@ -43,11 +43,18 @@
             </nav>
 
             <!-- content -->
-            <div class="mt-5  max-w-xl mx-auto  py-6 px-4">
-                
-                
-        </main>
-    </div>
+            <main class="mt-5  flex items-center flex-col mx-auto  py-6 px-4">
+                <div class="header">
+                    <h1 class="calendar-heading ">Events</h1>
+                </div>
+
+                <div class="calendar" id="calendar">
+
+                </div>
+            </main>
+
+        
+
     <script src="./iziToast.min.js" type="text/javascript"></script> 
      <script>
     
