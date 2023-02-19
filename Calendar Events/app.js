@@ -69,6 +69,10 @@ const updateCalendar = (month, year, events) => {
   theFirst.setYear(year);
 
   const theFirstDayOfWeek = theFirst.getDay();
+
+
+
+
   const monthName = months[month];
   const monthWithYear = `${year} - ${monthName}`;
   monthEl.innerText = monthWithYear;
@@ -87,9 +91,10 @@ const updateCalendar = (month, year, events) => {
         const event = events[thisDate];
         eventName.innerText = `* ${event.title}`;
       } else {
-        eventName.innerText = ``;
+        eventName.innerText = '';
+        // eventName.innerText = ``;
       }
-      console.log(thisDate);
+      console.log('this ',thisDate);
 
       dayNumber.innerText = dayCounter;
       dayCounter++;
@@ -152,3 +157,16 @@ async function copyText(e){
 }
 
  
+function getDaysInMonth() {
+    const today = new Date();
+    const month = today.getMonth();
+    const year = today.getFullYear();
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+    const days = [];
+    for (let i = 1; i <= daysInMonth; i++) {
+      days.push(i);
+    }
+    return days;
+  }
+  
+  console.log(getDaysInMonth());

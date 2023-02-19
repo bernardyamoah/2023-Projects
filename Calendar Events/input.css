@@ -5,6 +5,7 @@
 /* Import Google font - Poppins */
 * {
   font-family: 'Raleway', sans-serif;
+  transition: all 0.2s ease-in;
 }
 
 
@@ -19,19 +20,19 @@
     @apply text-3xl text-purple-100 font-bold mb-6
   }
  .day{
-  @apply w-16 h-16 md:w-28 md:h-28 rounded shadow bg-purple-500 p-1 sm:p-2.5 hover:bg-purple-500/70 backdrop-blur-md hover:ring-4 hover:ring-purple-500
+  @apply w-16 h-16 md:w-36 md:h-28 rounded shadow-md bg-slate-200 dark:bg-purple-500 p-1 sm:p-2.5 hover:bg-purple-500/70 backdrop-blur-md hover:ring-4 hover:ring-purple-500
  }
  .day-text{
   @apply text-white text-[7px]  sm:text-[9px] md:text-[11px] tracking-wider sm:px-2 sm:py-1 p-1  bg-purple-600/80 rounded-sm shadow-2xl
  }
  .day-number{
-  @apply text-white text-lg md:text-4xl font-bold text-center align-middle md:mt-2
+  @apply text-slate-700 dark:text-white text-lg md:text-4xl font-bold text-center align-middle md:mt-2
  }
  .event-name{
-  @apply text-[9px] text-purple-50 rounded-sm bg-purple-200/60 px-2 py-1 shadow-xl
+  @apply text-[9px] text-amber-100 dark:text-purple-50 rounded-sm bg-amber-400  dark:bg-purple-200/60 px-2 py-1 shadow-xl
  }
  #month{
-  @apply text-4xl text-white tracking-widest font-bold
+  @apply text-4xl text-purple-700 dark:text-white tracking-widest font-bold
 }
 .navigation{
   @apply bg-white p-2 rounded-full text-3xl shadow-md text-purple-800 h-12 w-12 text-center 
